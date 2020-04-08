@@ -7,7 +7,7 @@ Command line utility for granting the pax customizations for borderlands 3.
 
 ## Getting started
 
-To get the utility, go to the releases page or run `go get github.com/cfi2017/bl3-pax-skins`.
+To get the utility, go to the [releases](https://github.com/cfi2017/bl3-pax-skins/releases) page or run `go get github.com/cfi2017/bl3-pax-skins`.
 
 **If you're using Steam, make sure to disable cloud synchronisation or Steam will overwrite your changes with your cloud save.**
 
